@@ -9,7 +9,7 @@ in the shape of a heart.
 - Vanilla JavaScript
 
 ## How to Run
-Just open `index.html` in your browser. That's it!
+Just open `iloveyou.html` in your browser. That's it!
 
 ## Live Demo
-[Click here](https://username.github.io/love-animation)
+[Click here](https://shafiiyyaa.github.io/love-animation/)
